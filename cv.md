@@ -3,7 +3,7 @@ Oleg Stanishevsky
 Ничего уже не жду ( 
 О-о! Я та-а-а-кой клааассный! Ну что я вам рассказываю? Ай... 
 DOS с дискеты на винт скопировать, Norton Commander в autoexec.bat прописать, напечатать format c: 
-10 START; 20 GO to 10 
+BASIC 10 START; 20 GO to 10 
 No expirience 
 No projects 
 No links 
